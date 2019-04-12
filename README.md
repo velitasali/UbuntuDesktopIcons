@@ -9,7 +9,7 @@
 * Open terminal.
 * We are removing the `Desktop Icons` now.
 * Run `sudo rm -r /usr/share/gnome-shell/extensions/desktop-icons@csoriano`
-`Note: To reinstall it, you can use GNOME Extensions which will install it as a user extension.`
+* *Note: To reinstall it, you can use GNOME Extensions which will install it as a user extension.*
 * Now download the latest release of `Ubuntu Desktop Icons` from this repo.
 * Run `mkdir -p ~/.local/share/gnome-shell/extensions/ubuntu-desktop-icons@velitasali.github.io`
 * Extract the zip file into the previously created folder.
